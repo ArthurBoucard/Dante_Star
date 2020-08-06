@@ -6,7 +6,7 @@ Creates a random maze of any size and can also solve it.
 
 ---
 
-### Maze format description :
+### :pencil: Maze format description :
 • Mazes are rectangular.
 <br>
 • They are coded in ASCII.
@@ -29,7 +29,7 @@ Creates a random maze of any size and can also solve it.
 
 ---
 
-### How to run :
+### :computer: How to run :
 ```
 ./solver maze.txt
 
@@ -41,8 +41,7 @@ Creates a random maze of any size and can also solve it.
 ---
 
 ### :exclamation: Rules :
-> System functions and libC are allowed, but no external libraries.
-
+> System functions and libC are allowed, but no external libraries. <br>
 > The maze must have a solution.
 
 ---
