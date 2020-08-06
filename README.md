@@ -40,8 +40,10 @@ Creates a random maze of any size and can also solve it.
 
 ---
 
-### Rules
-> :exclamation: System functions and libC are allowed, but no external libraries.
+### :exclamation: Rules :
+> System functions and libC are allowed, but no external libraries.
+
+> The maze must have a solution.
 
 ---
 
